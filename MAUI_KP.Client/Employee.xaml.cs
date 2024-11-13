@@ -2,6 +2,7 @@ namespace MAUI_KP.Client;
 
 public partial class Employee : ContentPage
 {
+
     public Employee()
     {
         Title = "Common";
